@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Currículo José Sávyo</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top"
+                ><span class="d-block d-lg-none">José Sávyo</span><span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="" /></span></a
+            ><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Início</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Perfil Acadêmico</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#additional">Formação Complementar</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Habilidades e competências</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">José <span class="text-primary">Sávyo</span></h1>
+                    <div class="subheading mb-5">(83) 98115-4140 · Avenida Joaquim Caroca, 508 - Campina Grande - PB<br>
+                        <a href="mailto:josesavyo.lira@ee.ufcg.edu.br">·josesavyo.lira@ee.ufcg.edu.br<br></a>
+                        <a href="http://lattes.cnpq.br/9360641467164830">·Lattes<br></a>
+                    </div>
+                    <p class="lead mb-5">Técnico em eletrotécnica - IFPB<br> 
+                        Graduando em engenharia elétrica - UFCG</p>
+                    <div class="social-icons">
+                        <a class="social-icon" href="https://www.linkedin.com/in/s%C3%A1vyo-soares-6042a5201/"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="https://github.com/Jose-Savyo"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+        
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Perfil Acadêmico</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Instituto de Ciência e Tecnologia da Paraíba-Campus Patos</h3>
+                            <div class="subheading mb-3">Curso Técnico em Eletrotécnica Integrado, 2019</div>
+                            <div>Participante em Projetos de Pesquisa - Programa de incentivo à pesquisa voltada ao desenvolvimento de soluções institucionais - Construção de um Módulo de Cadastro para as fechaduras eletrônicas com controle centralizado no IFPB.</div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"></span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Universidade Federal de Campina Grande-Campus Sede</h3>
+                            <div class="subheading mb-3">Bacharelado em Engenharia Elétrica, cursando. </div>
+                            <div>Participante em Projetos de Iniciação Tecnológica PIBITI- Aperfeiçoamento do Analisador Modular de Baixo Custo em Desenvolvimento (2023).<br>
+                                
+                                <br>Aplicabilidade da Manufatura Aditiva por Soldagem a Arco na Fabricação de Componentes Metálicos de Simples, Média e Alta Complexidade Utilizados no Setor Aeronáutico (2023).
+
+                                <br><br>Participante em Projetos de Iniciação Tecnológica PIBITI- Aplicação de microcontroladores de baixo custo no desenvolvimento de um analisador modular – Módulo de medição de rotações e balanceamento (2021 - 2022).
+                            </div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"></span></div>
+                    </div>
+                    
+                </div>
+            </section>
+
+            <hr class="m-0" />
+            <!-- Additional-->
+            <section class="resume-section" id="additional">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Formação Complementar</h2>
+                    
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Vibtron Indústria e Comércio de Equipamentos Eletrônicos LTDA, VIBTRON, Brasil.</h3>
+                            <div class="subheading mb-3">Análise de Vibrações Mecânicas e Balanceamento Dinâmico de Rotores. (Carga horária: 24h).</div>
+                            <div></div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"></span></div>
+                    </div>
+
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Universidade Federal de Campina Grande, UFCG, Brasil. </h3>
+                            <div class="subheading mb-3">Minicurso Anarede. (Carga horária: 4h).</div>
+                            <div></div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"></span></div>
+                    </div>
+                    
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Instituto de Ciência e Tecnologia da Paraíba Campus Areia </h3>
+                            <div class="subheading mb-3">Curso de NR-10 Básico, 2021.</div>
+                            <div></div>
+                            <p></p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary"></span></div>
+                    </div>
+                </div>
+            </section>
+
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Habilidades e Competências</h2>
+                    <div class="subheading mb-3"></div>
+                    <ul>
+                        <li>Hardware e Prototipagem</li>
+                        <li>Microcontroladores Arduíno, ESP-32</li>
+                        <li>Raspberry Pi</li>
+                        <li>Linguagens de programação</li>
+                        <li>Desenvolvimento IOT Indústrial</li>
+                        <li>Linux</li>
+                    </ul>
+                    <div class="subheading mb-3">Linguagens de Programação</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>Javascript
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>C e C++
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>Verilog
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>Domínio sobre Matlab e Python
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Interests-->
+            
+            <hr class="m-0" />
+            <!-- Awards-->
+            
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
